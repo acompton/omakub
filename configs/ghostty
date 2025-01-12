@@ -1,0 +1,4 @@
+theme = dark:tokyonight,light:nord-light
+background-opacity = 0.7
+font-feature = -calt
+font-family="CaskaydiaMono Nerd Font"

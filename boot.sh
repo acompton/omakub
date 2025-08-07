@@ -1,3 +1,5 @@
+#!/bin/bash
+
 set -e
 
 ascii_art='________                  __        ___.
@@ -21,7 +23,6 @@ warning='
 ************************************************************
 '
 echo -e "$warning"
-
 echo -e "\nBegin installation (or abort with ctrl+c)..."
 
 sudo apt-get update >/dev/null
